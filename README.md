@@ -98,3 +98,4 @@ Thank you to members of the Firebase community that have ported this library to 
 
 * [firebase-scrypt-java](https://github.com/SmartMoveSystems/firebase-scrypt-java) by [SmartMoveSystems](https://github.com/SmartMoveSystems)
 * [firebase-scrypt-python](https://github.com/JaakkoL/firebase-scrypt-python) by [JaakkoL](https://github.com/JaakkoL)
+* [firebase-scrypt-node](https://github.com/xeewi/firebase-scrypt) by [xeewi](https://github.com/xeewi)
